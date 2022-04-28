@@ -184,5 +184,5 @@ Simply press 'Current Travels' in the main menu.
 
 ---
 
-## Contact
-Email: liko.arve@gmail.com
+## Contacts
+- Email: liko.arve@gmail.com
