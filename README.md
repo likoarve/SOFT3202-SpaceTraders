@@ -3,7 +3,7 @@ This project provides a Graphical User Interface (GUI) for [SpaceTraders API](ht
 
 ## Getting Started
 ### Built With
-The application is developed using Java 17 and [JavaFX 17.0.1](https://openjfx.io/).
+This application is developed using Java 17 and [JavaFX 17.0.1](https://openjfx.io/).
 
 ### Requirements
 - Java JDK 17 or higher.
