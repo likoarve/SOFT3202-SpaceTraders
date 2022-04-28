@@ -24,7 +24,7 @@ anything to do application. This mode is intended to demonstrate
 the GUI of the application. <br><br>
 To run the offline version, use the command below.
 ``` 
-gradle run --args="offline"
+./gradlew run --args="offline"
 ```
 
 #### Online Mode
@@ -33,10 +33,10 @@ uses the logics of the SpaceTraders API.<br><br>
 To run the offline version, either put the argument 'online' 
 or use no arguments.
 ``` 
-gradle run --args="online"
+./gradlew run --args="online"
 ```
 ``` 
-gradle run
+./gradlew run
 ```
 
 ## Acknowledgement
