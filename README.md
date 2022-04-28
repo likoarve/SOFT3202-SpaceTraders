@@ -1,9 +1,20 @@
 # SpaceTraders GUI
-SID: 500068636<br>
-SOFT3203 Task 2
+This project provides a Graphical User Interface (GUI) for [SpaceTraders API](https://spacetraders.io/). This project is created as part of University of Sydney's SOFT3202 Task 2.
+
+## Getting Started
+### Built With
+The application is developed using Java 17 and [JavaFX 17.0.1](https://openjfx.io/).
+
+### Requirements
+- Java JDK 17 or higher.
+- Gradle 7.0 or higher.
 
 ## How to Run the Application
-The application can be used in two different modes. <br><br>
+To start, either download the repository or clone the repository using the command below.
+```
+git clone https://github.com/likoarve/SOFT3202-SpaceTraders.git
+```
+The application can be runned in two different modes. <br>
 
 #### Offline Mode
 The offline mode is the dummy version of the application, 
@@ -15,7 +26,6 @@ To run the offline version, use the command below.
 ``` 
 gradle run --args="offline"
 ```
-<br>
 
 #### Online Mode
 This is the actual version of the application. This mode
@@ -28,6 +38,12 @@ gradle run --args="online"
 ``` 
 gradle run
 ```
+
+## Acknowledgement
+This project is fully inspired by SpaceTraders API. The full API documentation can be accessed from the links below.
+- https://github.com/SpaceTradersAPI
+- https://api.spacetraders.io/
+
 ---
 
 ## Functionalities
