@@ -47,7 +47,7 @@ This project is fully inspired by SpaceTraders API. The full API documentation c
 ---
 
 ## Functionalities
-Below are the functionalities of this application and how to
+The functionalities implemented in this application are the ones specified in [SpaceTraders API's Getting Started Guide](https://spacetraders.io/docs/guide). Below are the functionalities of this application and how to
 access them. Note that these functionalities only apply to
 the 'online' mode of the application.
 
