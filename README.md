@@ -181,3 +181,8 @@ Follow the steps below:
 
 ### View Current Flight Plans
 Simply press 'Current Travels' in the main menu.
+
+---
+
+## Contact
+Email: liko.arve@gmail.com
