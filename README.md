@@ -9,7 +9,7 @@ This application is developed using Java 17 and [JavaFX 17.0.1](https://openjfx.
 - Java JDK 17 or higher.
 - Gradle 7.0 or higher.
 
-## How to Run the Application
+## Running the Application
 To start, either download the repository or clone the repository using the command below.
 ```
 git clone https://github.com/likoarve/SOFT3202-SpaceTraders.git
